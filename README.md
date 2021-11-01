@@ -20,6 +20,6 @@ Test Cases for Tip Calculator:
 16.	Verify that the design is firm for different output results.
 17.	Verify that nothing is shown when the data is not provided in the input values.
 18.	NaN (Not a Number) is displayed in the results when the input value is different from integers.
-19.	Verify that the Tip Percentage and People Number take only numeral values.
-20.	Verify that there is no ambiguous data is there when we input and output data is provided.
+19.	Verify that the Tip Percentage and People Number take only numerical values.
+20.	Verify that there is no ambiguous data when input and output data is provided.
 
